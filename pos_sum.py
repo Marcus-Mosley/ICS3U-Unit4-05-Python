@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 # Created by Marcus A. Mosley
-# Created on September 2020
+# Created on October 2020
 # This program is a positive number only sum calculator with
-#     a Continue statment
+#     a Continue statement
 
 
 import random
